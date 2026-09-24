@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8yJGhZvjgJA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kot_shaitan\\Desktop\\PoliclinicService\\PoliclinicService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kot_shaitan\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.10\\microsoft.aspnetcore.openapi.9.0.10.nupkg.sha512",
+    "C:\\Users\\kot_shaitan\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

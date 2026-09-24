@@ -1,0 +1,6 @@
+@PoliclinicService_HostAddress = http://localhost:5033
+
+GET {{PoliclinicService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
